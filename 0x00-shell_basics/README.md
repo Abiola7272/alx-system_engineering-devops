@@ -1,1 +1,1 @@
-This script display current directory contents
+This script creates a directory named my_first_directory
