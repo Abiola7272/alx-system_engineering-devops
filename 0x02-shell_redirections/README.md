@@ -1,1 +1,1 @@
-0-hello_world script prints Hello, World
+This Write a script that displays a confused smiley.
