@@ -21,3 +21,4 @@ deletes all the regular files not the directories with a .js extension that are 
 21-reverse script reverse its input.
 22-users_and_homes script displays all users and their home directories, sorted by users.
 100-empty_casks script finds all empty files and directories in the current directory and all sub-directories.
+101-gifs script lists all the files with a .gif extension in the current directory and all its sub-directories.
