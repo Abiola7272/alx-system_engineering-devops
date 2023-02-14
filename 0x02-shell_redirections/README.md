@@ -18,3 +18,4 @@ deletes all the regular files not the directories with a .js extension that are 
 18-letteronly script display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ script replace all characters A and c from input to Z and e respectively.
 20-hiago script removes all letters c and C from input.
+21-reverse script reverse its input.
