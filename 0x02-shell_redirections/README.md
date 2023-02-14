@@ -15,3 +15,4 @@ deletes all the regular files not the directories with a .js extension that are 
 15-countthatword display the number of lines that contain the pattern “bin” in the file /etc/passwd.
 16-whatsnext script display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 17-hidethisword script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18-letteronly script display all lines of the file /etc/ssh/sshd_config starting with a letter.
